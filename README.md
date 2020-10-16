@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **anantdark/anantdark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,6 +9,6 @@
 - 🌱 I’m currently learning selenium.
 - 👯 I’m looking to collaborate on any fun project.
 - 📫 How to reach me: anantpatel2000@pm.me
-- ⚡ Fun fact: Privacy comes at the cost of usability.
+- ⚡ Fun fact: Privacy comes at the cost of convenience.
 
-![Visitor Count](https://profile-counter.glitch.me/{anantdark}/count.svg)
+# Visitor Count : ![Visitor Count](https://profile-counter.glitch.me/{anantdark}/count.svg)
