@@ -11,6 +11,4 @@
 - 📫 How to reach me: anantpatel2000@pm.me
 - ⚡ Fun fact: Privacy comes at the cost of convenience.
 
-# Visitor Count :
-
 ![](https://komarev.com/ghpvc/?username=anantdark&style=flat-square)                    
