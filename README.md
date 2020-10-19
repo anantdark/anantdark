@@ -11,4 +11,6 @@
 - 📫 How to reach me: anantpatel2000@pm.me
 - ⚡ Fun fact: Privacy comes at the cost of convenience.
 
-# Visitor Count : ![Visitor Count](https://profile-counter.glitch.me/{anantdark}/count.svg)
+# Visitor Count :
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
