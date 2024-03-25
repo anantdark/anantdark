@@ -5,8 +5,8 @@
 -->
 
 
-- 🔭 I’m currently working on python.
-- 🌱 I’m currently learning selenium.
+- 🔭 I’m currently working on Kotlin.
+- 🌱 I’m currently learning Android Development.
 - 👯 Hey you, YES YOU. Liked my profile? Let's collaborate on some fun project.
 - 📫 How to reach me: anantpatel2000@pm.me
 - ⚡ Fun fact: Privacy comes at the cost of convenience.
