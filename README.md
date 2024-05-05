@@ -11,6 +11,20 @@
 - 📫 How to reach me: anantpatel2000@pm.me
 - ⚡ Fun fact: Privacy comes at the cost of convenience.
 
+## 🔥 I have experience with:
+### Languages:
+[![](https://skillicons.dev/icons?i=python,kotlin,c,cpp,html,css,js,bash,latex,lua,md)](https://skillicons.dev)
+### Editors:
+[![](https://skillicons.dev/icons?i=vim,neovim,vscode,vscodium,pycharm,androidstudio,eclipse)](https://skillicons.dev)
+### Tools:
+[![](https://skillicons.dev/icons?i=bash,docker,git,mongodb,npm,nodejs,postman,vite,github,githubactions,figma)](https://skillicons.dev)
+### Frameworks:
+[![](https://skillicons.dev/icons?i=flask,django,selenium,react,redux,materialui)](https://skillicons.dev)
+
+### OS:
+[![](https://skillicons.dev/icons?i=ubuntu,debian,kali)](https://skillicons.dev)
+## 
+
 <!-- 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=mangoman&api_domain=wakapi.dev&bg_color=1e1e2e&title_color=94e2d5&icon_color=cba6f7&text_color=cdd6f4&custom_title=My%20Weekly%20Coding%20Stats&layout=compact)
 -->
