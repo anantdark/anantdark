@@ -14,10 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=mangoman&api_domain=wakapi.dev&bg_color=1e1e2e&title_color=94e2d5&icon_color=cba6f7&text_color=cdd6f4&custom_title=My%20Weekly%20Coding%20Stats&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -32,7 +28,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/05/2024 05:41:49 UTC
+ Last Updated on 05/05/2024 05:45:54 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=anantdark&style=flat-square)                    
