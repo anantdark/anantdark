@@ -14,7 +14,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKAPI }}
           GH_TOKEN: ${{ secrets.WAKATIME }}
-          SHOW_LINES_OF_CODE: "True"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "False"
           SHOW_EDITORS: "True"
