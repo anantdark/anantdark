@@ -14,21 +14,8 @@
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=mangoman&api_domain=wakapi.dev&bg_color=1e1e2e&title_color=94e2d5&icon_color=cba6f7&text_color=cdd6f4&custom_title=My%20Weekly%20Coding%20Stats&layout=compact)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 05/05/2024 18:35:34 UTC
+ Last Updated on 05/05/2024 19:17:27 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=anantdark&style=flat-square)                    
