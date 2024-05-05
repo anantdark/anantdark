@@ -8,6 +8,8 @@
 
 </p>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 - 🔭 I’m currently working on Kotlin.
 - 🌱 I’m currently learning Android Development.
@@ -68,4 +70,3 @@ Linux                    2 hrs 8 mins        ███████████�
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=anantdark&style=flat-square)          
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
