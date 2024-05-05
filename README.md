@@ -11,7 +11,9 @@
 - 📫 How to reach me: anantpatel2000@pm.me
 - ⚡ Fun fact: Privacy comes at the cost of convenience.
 
+<!-- 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=mangoman&api_domain=wakapi.dev&bg_color=1e1e2e&title_color=94e2d5&icon_color=cba6f7&text_color=cdd6f4&custom_title=My%20Weekly%20Coding%20Stats&layout=compact)
+-->
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
