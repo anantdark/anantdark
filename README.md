@@ -7,10 +7,9 @@
 <img width=33% src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ5NDExOTIsIm5iZiI6MTcxNDk0MDg5MiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA1VDIwMjgxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlNzY5ZjliY2RlNDUyNTFkN2NlNzhkYzE1MzJiYjM0MzY4OTgyMDhkZjJiNzRiYzY0MWRiZjk5MDMzODJmNzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.6vPtbF5hLYYCCDU83C2xwNfqKSqrqmzvdfvOYV-pT58" />
 
 <img width=25% src="https://github.com/anantdark/anantdark/assets/66427020/2013c378-e1fa-4aa6-8713-ea1317937927" />
-
-
-
 </p>
+
+
 - 🔭 I’m currently working on Kotlin.
 - 🌱 I’m currently learning Android Development.
 - 👯 Hey you, YES YOU. Liked my profile? Let's collaborate on some fun project.
