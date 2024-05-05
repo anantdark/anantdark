@@ -4,6 +4,8 @@
 **anantdark/anantdark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<img src="https://i.gifer.com/5IJ.gif" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 - 🔭 I’m currently working on Kotlin.
 - 🌱 I’m currently learning Android Development.
