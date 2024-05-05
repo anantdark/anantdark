@@ -16,77 +16,23 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 38.8 kB Used in GitHub's Storage 
- > 
-> 🏆 74 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 20 Public Repositories 
- > 
-> 🔑 11 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                81 commits          █████████░░░░░░░░░░░░░░░░   34.62 % 
-🌆 Daytime                61 commits          ███████░░░░░░░░░░░░░░░░░░   26.07 % 
-🌃 Evening                54 commits          ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-🌙 Night                  38 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Tuesday                  33 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Wednesday                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Thursday                 12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Friday                   35 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Saturday                 54 commits          ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Sunday                   50 commits          █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-```
-
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: UTC
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
 💻 Operating System: 
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
 
-```text
-Python                   12 repos            ████████████░░░░░░░░░░░░░   48.00 % 
-HTML                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/anantdark/anantdark/main/assets/bar_graph.png)
-
-
- Last Updated on 05/05/2024 05:39:37 UTC
+ Last Updated on 05/05/2024 05:41:49 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=anantdark&style=flat-square)                    
