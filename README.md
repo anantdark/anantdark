@@ -1,11 +1,8 @@
-## Hi there 👋
-
 <!--
 **anantdark/anantdark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="https://i.gifer.com/5IJ.gif" />
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img align=center width=30% src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ5NDExOTIsIm5iZiI6MTcxNDk0MDg5MiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA1VDIwMjgxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4ZmM2YWI5NTdlYTQyNWM2ODdlMDk4MGRjNzNmNGIzMWI0YzFlOWJhYWU3NDZhODMzMDJmNWU5ZmZkYmZlZmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.oGHEIZA-_Nvtb-3FP9eo7PsoVNNiRfg-qmQRusTyio0" />
 
 - 🔭 I’m currently working on Kotlin.
 - 🌱 I’m currently learning Android Development.
@@ -54,4 +51,5 @@ Linux                    2 hrs 8 mins        ███████████�
  Last Updated on 05/05/2024 19:22:21 UTC
 <!--END_SECTION:waka-->
 
-![](https://komarev.com/ghpvc/?username=anantdark&style=flat-square)                    
+![](https://komarev.com/ghpvc/?username=anantdark&style=flat-square)          
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
