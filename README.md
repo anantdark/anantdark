@@ -51,20 +51,17 @@
 
 ```text
 💬 Programming Languages: 
-C++                      2 mins              █████████████░░░░░░░░░░░░   50.54 % 
-Text                     2 mins              ████████████░░░░░░░░░░░░░   48.88 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   4 mins              █████████████████████████   99.42 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/08/2024 01:52:50 UTC
+ Last Updated on 17/08/2024 01:50:42 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=anantdark&style=flat-square)          
