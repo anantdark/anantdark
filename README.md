@@ -51,17 +51,19 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   53 mins             █████████████████░░░░░░░░   66.72 % 
+Markdown                 26 mins             ████████░░░░░░░░░░░░░░░░░   33.11 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   1 hr 20 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/11/2024 02:05:38 UTC
+ Last Updated on 19/11/2024 02:04:02 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=anantdark&style=flat-square)          
