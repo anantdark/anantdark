@@ -52,17 +52,17 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/08/2025 02:09:24 UTC
+ Last Updated on 23/08/2025 02:05:45 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=anantdark&style=flat-square)          
