@@ -48,22 +48,8 @@
 -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Python                   45 mins             █████████████████████████   99.90 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-
-🔥 Editors: 
-PyCharm                  45 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    45 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 02/10/2025 02:02:42 UTC
+ Last Updated on 03/10/2025 02:02:20 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=anantdark&style=flat-square)          
