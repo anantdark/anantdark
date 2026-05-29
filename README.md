@@ -48,21 +48,8 @@
 -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 28/05/2026 02:18:45 UTC
+ Last Updated on 29/05/2026 02:19:21 UTC
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=anantdark&style=flat-square)          
