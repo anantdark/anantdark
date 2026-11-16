@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="530" height="290" viewBox="0 0 530 290" role="img" aria-label="Top languages">
+  <rect width="530" height="290" rx="12" fill="#0a0f0e" stroke="#1f3a33"/>
+  <text x="36" y="34" fill="#2dd4a8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="700">Most Used Languages</text>
+  <line x1="36" y1="46" x2="494" y2="46" stroke="#1f3a33"/>
+  <circle cx="36" cy="58" r="5" fill="#3572A5"/>
+  <text x="50" y="62" fill="#a7c4bc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">Python</text>
+  <rect x="160" y="52" width="340" height="8" rx="4" fill="#12201c"/>
+  <rect x="160" y="52" width="164" height="8" rx="4" fill="#3572A5"/>
+  <text x="510" y="62" text-anchor="end" fill="#6b8f86" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12">48.4%</text>
+  <circle cx="36" cy="86" r="5" fill="#f1e05a"/>
+  <text x="50" y="90" fill="#a7c4bc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">JavaScript</text>
+  <rect x="160" y="80" width="340" height="8" rx="4" fill="#12201c"/>
+  <rect x="160" y="80" width="43" height="8" rx="4" fill="#f1e05a"/>
+  <text x="510" y="90" text-anchor="end" fill="#6b8f86" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12">12.9%</text>
+  <circle cx="36" cy="114" r="5" fill="#A97BFF"/>
+  <text x="50" y="118" fill="#a7c4bc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">Kotlin</text>
+  <rect x="160" y="108" width="340" height="8" rx="4" fill="#12201c"/>
+  <rect x="160" y="108" width="43" height="8" rx="4" fill="#A97BFF"/>
+  <text x="510" y="118" text-anchor="end" fill="#6b8f86" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12">12.9%</text>
+  <circle cx="36" cy="142" r="5" fill="#e34c26"/>
+  <text x="50" y="146" fill="#a7c4bc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">HTML</text>
+  <rect x="160" y="136" width="340" height="8" rx="4" fill="#12201c"/>
+  <rect x="160" y="136" width="32" height="8" rx="4" fill="#e34c26"/>
+  <text x="510" y="146" text-anchor="end" fill="#6b8f86" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12">9.7%</text>
+  <circle cx="36" cy="170" r="5" fill="#89e051"/>
+  <text x="50" y="174" fill="#a7c4bc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">Shell</text>
+  <rect x="160" y="164" width="340" height="8" rx="4" fill="#12201c"/>
+  <rect x="160" y="164" width="21" height="8" rx="4" fill="#89e051"/>
+  <text x="510" y="174" text-anchor="end" fill="#6b8f86" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12">6.5%</text>
+  <circle cx="36" cy="198" r="5" fill="#563d7c"/>
+  <text x="50" y="202" fill="#a7c4bc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">CSS</text>
+  <rect x="160" y="192" width="340" height="8" rx="4" fill="#12201c"/>
+  <rect x="160" y="192" width="10" height="8" rx="4" fill="#563d7c"/>
+  <text x="510" y="202" text-anchor="end" fill="#6b8f86" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12">3.2%</text>
+  <circle cx="36" cy="226" r="5" fill="#000080"/>
+  <text x="50" y="230" fill="#a7c4bc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">Lua</text>
+  <rect x="160" y="220" width="340" height="8" rx="4" fill="#12201c"/>
+  <rect x="160" y="220" width="10" height="8" rx="4" fill="#000080"/>
+  <text x="510" y="230" text-anchor="end" fill="#6b8f86" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12">3.2%</text>
+  <circle cx="36" cy="254" r="5" fill="#3D6117"/>
+  <text x="50" y="258" fill="#a7c4bc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">TeX</text>
+  <rect x="160" y="248" width="340" height="8" rx="4" fill="#12201c"/>
+  <rect x="160" y="248" width="10" height="8" rx="4" fill="#3D6117"/>
+  <text x="510" y="258" text-anchor="end" fill="#6b8f86" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12">3.2%</text>
+</svg>

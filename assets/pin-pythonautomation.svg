@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="140" viewBox="0 0 400 140" role="img" aria-label="PythonAutomation">
+  <rect width="400" height="140" rx="12" fill="#0a0f0e" stroke="#1f3a33"/>
+  <text x="28" y="40" fill="#2dd4a8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="700">PythonAutomation</text>
+  <text x="28" y="78" fill="#a7c4bc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">Python scripts that automate everyday</text>
+  <text x="28" y="100" fill="#a7c4bc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">chores</text>
+  <circle cx="34" cy="118" r="5" fill="#3572A5"/>
+  <text x="46" y="122" fill="#a7c4bc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Python</text>
+  <text x="130" y="122" fill="#6b8f86" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">★ 1</text>
+  <text x="190" y="122" fill="#6b8f86" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">forks 2</text>
+</svg>

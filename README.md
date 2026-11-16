@@ -51,10 +51,10 @@ Open source when it can be. Privacy by default.
 
 <p align="center">
   <a href="https://github.com/anantdark/FitBuddy">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=anantdark&repo=FitBuddy&theme=transparent&bg_color=0a0f0e&title_color=2dd4a8&text_color=a7c4bc&icon_color=5eead4&border_color=1f3a33&hide_border=false" alt="FitBuddy"/>
+    <img src="assets/pin-fitbuddy.svg" alt="FitBuddy" width="400"/>
   </a>
   <a href="https://github.com/anantdark/PythonAutomation">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=anantdark&repo=PythonAutomation&theme=transparent&bg_color=0a0f0e&title_color=2dd4a8&text_color=a7c4bc&icon_color=5eead4&border_color=1f3a33&hide_border=false" alt="PythonAutomation"/>
+    <img src="assets/pin-pythonautomation.svg" alt="PythonAutomation" width="400"/>
   </a>
 </p>
 
@@ -79,8 +79,8 @@ Open source when it can be. Privacy by default.
 ### Pulse
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anantdark&show_icons=true&theme=transparent&bg_color=0a0f0e&title_color=2dd4a8&text_color=a7c4bc&icon_color=5eead4&ring_color=2dd4a8&border_color=1f3a33&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anantdark&layout=compact&theme=transparent&bg_color=0a0f0e&title_color=2dd4a8&text_color=a7c4bc&border_color=1f3a33&hide_border=false&langs_count=8" alt="Top languages"/>
+  <img src="assets/stats.svg" alt="GitHub stats" height="210"/>
+  <img src="assets/langs.svg" alt="Top languages" height="210"/>
 </p>
 
 <p align="center">

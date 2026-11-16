@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="140" viewBox="0 0 400 140" role="img" aria-label="FitBuddy">
+  <rect width="400" height="140" rx="12" fill="#0a0f0e" stroke="#1f3a33"/>
+  <text x="28" y="40" fill="#2dd4a8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="700">FitBuddy</text>
+  <text x="28" y="78" fill="#a7c4bc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">AI-powered calorie and workout tracker</text>
+  <text x="28" y="100" fill="#a7c4bc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">with privacy-first design</text>
+  <circle cx="34" cy="118" r="5" fill="#A97BFF"/>
+  <text x="46" y="122" fill="#a7c4bc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Kotlin</text>
+  <text x="130" y="122" fill="#6b8f86" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">★ 39</text>
+  <text x="190" y="122" fill="#6b8f86" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">forks 4</text>
+</svg>

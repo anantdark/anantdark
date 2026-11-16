@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="230" viewBox="0 0 460 230" role="img" aria-label="GitHub stats">
+  <rect width="460" height="230" rx="12" fill="#0a0f0e" stroke="#1f3a33"/>
+  <text x="36" y="34" fill="#2dd4a8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="700">anantdark's GitHub Stats</text>
+  <line x1="36" y1="46" x2="424" y2="46" stroke="#1f3a33"/>
+  <text x="36" y="58" fill="#6b8f86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">Total Stars</text>
+  <text x="430" y="58" text-anchor="end" fill="#ecfdf8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="600">64</text>
+  <text x="36" y="86" fill="#6b8f86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">Total Commits</text>
+  <text x="430" y="86" text-anchor="end" fill="#ecfdf8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="600">530</text>
+  <text x="36" y="114" fill="#6b8f86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">Total PRs</text>
+  <text x="430" y="114" text-anchor="end" fill="#ecfdf8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="600">84</text>
+  <text x="36" y="142" fill="#6b8f86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">Total Issues</text>
+  <text x="430" y="142" text-anchor="end" fill="#ecfdf8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="600">38</text>
+  <text x="36" y="170" fill="#6b8f86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">Public Repos</text>
+  <text x="430" y="170" text-anchor="end" fill="#ecfdf8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="600">37</text>
+  <text x="36" y="198" fill="#6b8f86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">Followers</text>
+  <text x="430" y="198" text-anchor="end" fill="#ecfdf8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="600">19</text>
+</svg>
