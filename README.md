@@ -1,51 +1,94 @@
 <!--
-**anantdark/anantdark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anantdark/anantdark** is a special repository — this README appears on the GitHub profile.
 -->
-<p align="center">
-<img width=33% src="assets/animated_hello.gif" />
-<img width=33% src="assets/happy_coder.gif" />
-<img width=25% src="https://github.com/anantdark/anantdark/assets/66427020/2013c378-e1fa-4aa6-8713-ea1317937927" />
-
-</p>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-- 🔭 I’m currently working on Kotlin.
-- 🌱 I’m currently learning Android Development.
-- 👯 Hey you, YES YOU. Liked my profile? Let's collaborate on some fun project.
-- 📫 How to reach me: anantpatel2000@proton.me
-- ⚡ Fun fact: Privacy comes at the cost of convenience.
-
-## 🔥 I have experience with:
-### Languages:
-[![](https://skillicons.dev/icons?i=python,kotlin,c,cpp,html,css,js,bash,latex,lua,md)](https://skillicons.dev)
-### Editors:
-[![](https://skillicons.dev/icons?i=vim,neovim,vscode,vscodium,pycharm,androidstudio,eclipse)](https://skillicons.dev)
-### Tools:
-[![](https://skillicons.dev/icons?i=bash,docker,git,mongodb,npm,nodejs,postman,vite,github,githubactions,figma)](https://skillicons.dev)
-### Frameworks:
-[![](https://skillicons.dev/icons?i=flask,django,selenium,react,redux,materialui)](https://skillicons.dev)
-
-### OS:
-[![](https://skillicons.dev/icons?i=ubuntu,debian,kali)](https://skillicons.dev)
-## 
-
-<!-- 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=mangoman&api_domain=wakapi.dev&bg_color=1e1e2e&title_color=94e2d5&icon_color=cba6f7&text_color=cdd6f4&custom_title=My%20Weekly%20Coding%20Stats&layout=compact)
 
 <p align="center">
- <img width=10% src="https://camo.githubusercontent.com/d3bc4d265c2b0a426cdd5a08bc594f58f74673bd216aff789547166912ff3267/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d6f6f6e77616c6b696e67706172726f742e676966" />
- <img width=10% src="https://camo.githubusercontent.com/d3bc4d265c2b0a426cdd5a08bc594f58f74673bd216aff789547166912ff3267/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d6f6f6e77616c6b696e67706172726f742e676966" />
- <img width=10% src="https://camo.githubusercontent.com/d3bc4d265c2b0a426cdd5a08bc594f58f74673bd216aff789547166912ff3267/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d6f6f6e77616c6b696e67706172726f742e676966" />
- <img width=10% src="https://camo.githubusercontent.com/d3bc4d265c2b0a426cdd5a08bc594f58f74673bd216aff789547166912ff3267/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d6f6f6e77616c6b696e67706172726f742e676966" />
- <img width=10% src="https://camo.githubusercontent.com/d3bc4d265c2b0a426cdd5a08bc594f58f74673bd216aff789547166912ff3267/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d6f6f6e77616c6b696e67706172726f742e676966" />
- <img width=10% src="https://camo.githubusercontent.com/d3bc4d265c2b0a426cdd5a08bc594f58f74673bd216aff789547166912ff3267/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d6f6f6e77616c6b696e67706172726f742e676966" />
- <img width=10% src="https://camo.githubusercontent.com/d3bc4d265c2b0a426cdd5a08bc594f58f74673bd216aff789547166912ff3267/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d6f6f6e77616c6b696e67706172726f742e676966" />
- <img width=10% src="https://camo.githubusercontent.com/d3bc4d265c2b0a426cdd5a08bc594f58f74673bd216aff789547166912ff3267/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d6f6f6e77616c6b696e67706172726f742e676966" />
- <img width=10% src="https://camo.githubusercontent.com/d3bc4d265c2b0a426cdd5a08bc594f58f74673bd216aff789547166912ff3267/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d6f6f6e77616c6b696e67706172726f742e676966" />
+  <img src="assets/header.svg" alt="anantdark — Automating my life, one program at a time." width="100%"/>
 </p>
--->
+
+<p align="center">
+  <a href="https://anantdark.github.io"><img src="https://img.shields.io/badge/blog-anantdark.github.io-0f1a17?style=for-the-badge&labelColor=0a0f0e&color=2dd4a8" alt="Blog"/></a>
+  <a href="mailto:anantpatel2000@proton.me"><img src="https://img.shields.io/badge/email-proton.me-0f1a17?style=for-the-badge&labelColor=0a0f0e&color=5eead4" alt="Email"/></a>
+  <a href="https://f-droid.org/packages/com.anant.fitbuddy/"><img src="https://img.shields.io/badge/FitBuddy-F--Droid-0f1a17?style=for-the-badge&labelColor=0a0f0e&color=2dd4a8" alt="FitBuddy on F-Droid"/></a>
+  <img src="https://komarev.com/ghpvc/?username=anantdark&style=for-the-badge&color=2dd4a8&label=profile+views" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="420"/>
+</p>
+
+### About
+
+Android engineer building tools that stay out of the way — and out of your data.
+
+I ship open-source apps with Kotlin & Jetpack Compose, automate the boring parts of life with Python, and treat privacy as a feature, not a footnote.
+
+Currently deep in **Kotlin / Android** — calorie tracking, body metrics, rolling mic memory, and whatever else needs a better default.
+
+<details>
+<summary><b>Quick facts</b></summary>
+<br/>
+
+- Working on Kotlin & Android apps that ship to F-Droid and GitHub Releases
+- Learning deeper Android platform work — Compose, Room, BLE, CI
+- Open to collaborating on privacy-respecting tooling
+- Reach me: [anantpatel2000@proton.me](mailto:anantpatel2000@proton.me)
+- Fun fact: privacy comes at the cost of convenience — worth paying
+
+</details>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="420"/>
+</p>
+
+### Featured work
+
+| Project | What it is |
+| :--- | :--- |
+| [**FitBuddy**](https://github.com/anantdark/FitBuddy) | AI-powered calorie & workout tracker for Android — region-aware diets, photo/text logging, on-device privacy. [F-Droid](https://f-droid.org/packages/com.anant.fitbuddy/) |
+| [**Gecko**](https://github.com/anantdark/Gecko) | Time-travelling audio recorder — rolling mic memory for Android |
+| [**FreeScale**](https://github.com/anantdark/FreeScale) | Open Android client for the Dr. Trust USA 532 smart scale |
+| [**SplitBill**](https://github.com/anantdark/SplitBill) | Prepaid meter bill splitting for shared flats |
+| [**macpaper**](https://github.com/anantdark/macpaper) | Register local videos & images as macOS wallpapers / screen savers |
+| [**chromadesk**](https://github.com/anantdark/chromadesk) | Daily wallpaper app for GNOME |
+
+<p align="center">
+  <a href="https://github.com/anantdark/FitBuddy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anantdark&repo=FitBuddy&theme=transparent&bg_color=0a0f0e&title_color=2dd4a8&text_color=a7c4bc&icon_color=5eead4&border_color=1f3a33&hide_border=false" alt="FitBuddy"/>
+  </a>
+  <a href="https://github.com/anantdark/Gecko">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anantdark&repo=Gecko&theme=transparent&bg_color=0a0f0e&title_color=2dd4a8&text_color=a7c4bc&icon_color=5eead4&border_color=1f3a33&hide_border=false" alt="Gecko"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="420"/>
+</p>
+
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,js,react,flask,django,docker,git,githubactions,linux,bash&perline=12" alt="Skills"/>
+</p>
+
+<p align="center">
+  <sub>Also fluent with · C / C++ · Neovim · Selenium · MongoDB · Figma</sub>
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="420"/>
+</p>
+
+### Pulse
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anantdark&show_icons=true&theme=transparent&bg_color=0a0f0e&title_color=2dd4a8&text_color=a7c4bc&icon_color=5eead4&ring_color=2dd4a8&border_color=1f3a33&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantdark&layout=compact&theme=transparent&bg_color=0a0f0e&title_color=2dd4a8&text_color=a7c4bc&border_color=1f3a33&hide_border=false&langs_count=8" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anantdark&theme=dark&background=0a0f0e&ring=2dd4a8&fire=5eead4&currStreakLabel=2dd4a8&sideLabels=a7c4bc&dates=6b8f86&stroke=1f3a33&border=1f3a33&currStreakNum=ecfdf8&sideNums=ecfdf8" alt="GitHub streak"/>
+</p>
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -71,4 +114,13 @@ No AI Coding Activity Tracked This Week
  Last Updated on 01/11/2026 07:47:19 UTC
 <!--END_SECTION:waka-->
 
-![](https://komarev.com/ghpvc/?username=anantdark&style=flat-square)          
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="420"/>
+</p>
+
+<p align="center">
+  <sub>Built with care · open source preferred · privacy by default</sub><br/>
+  <a href="mailto:anantpatel2000@proton.me">anantpatel2000@proton.me</a>
+  ·
+  <a href="https://anantdark.github.io">anantdark.github.io</a>
+</p>
