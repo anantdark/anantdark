@@ -84,7 +84,7 @@ Open source when it can be. Privacy by default.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anantdark&theme=dark&background=0A0F0E&ring=2DD4A8&fire=5EEAD4&currStreakLabel=2DD4A8&sideLabels=A7C4BC&dates=6B8F86&stroke=1F3A33&border=1F3A33&currStreakNum=ECfDF8&sideNums=ECFDF8" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anantdark&theme=dark&background=0A0F0E&ring=2DD4A8&fire=5EEAD4&currStreakLabel=2DD4A8&sideLabels=A7C4BC&dates=6B8F86&stroke=1F3A33&border=1F3A33&currStreakNum=ECFDF8&sideNums=ECFDF8" alt="GitHub streak"/>
 </p>
 
 <!--START_SECTION:waka-->
