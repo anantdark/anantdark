@@ -29,42 +29,34 @@
   <rect width="1200" height="360" fill="url(#bg)"/>
   <rect width="1200" height="360" fill="url(#grid)"/>
 
-  <!-- atmospheric orbs -->
   <circle cx="980" cy="70" r="120" fill="#2dd4a8" opacity="0.08" filter="url(#soft)"/>
   <circle cx="160" cy="300" r="90" fill="#5eead4" opacity="0.06" filter="url(#soft)"/>
 
-  <!-- left accent bar -->
   <rect x="0" y="0" width="6" height="360" fill="url(#accent)"/>
 
-  <!-- top meta -->
-  <text x="64" y="72" fill="#6b8f86" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" letter-spacing="4">INDIA · ANDROID · AUTOMATION</text>
+  <text x="64" y="72" fill="#6b8f86" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" letter-spacing="4">INDIA · AI ENGINEER · PYTHON</text>
 
-  <!-- brand -->
   <text x="64" y="160" fill="#ecfdf8" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="72" font-weight="700" letter-spacing="1">anantdark</text>
 
-  <!-- underline glow -->
   <rect x="64" y="178" width="320" height="2" fill="url(#glow)"/>
   <rect x="64" y="178" width="120" height="2" fill="url(#accent)"/>
 
-  <!-- tagline -->
   <text x="64" y="230" fill="#a7c4bc" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="22">Automating my life, one program at a time.</text>
 
-  <!-- chips -->
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">
     <rect x="64" y="268" width="92" height="32" rx="6" fill="#12201c" stroke="#2dd4a8" stroke-opacity="0.35"/>
-    <text x="110" y="288" text-anchor="middle" fill="#5eead4">Kotlin</text>
+    <text x="110" y="288" text-anchor="middle" fill="#5eead4">Python</text>
 
-    <rect x="168" y="268" width="108" height="32" rx="6" fill="#12201c" stroke="#2dd4a8" stroke-opacity="0.35"/>
-    <text x="222" y="288" text-anchor="middle" fill="#5eead4">Android</text>
+    <rect x="168" y="268" width="72" height="32" rx="6" fill="#12201c" stroke="#2dd4a8" stroke-opacity="0.35"/>
+    <text x="204" y="288" text-anchor="middle" fill="#5eead4">AI</text>
 
-    <rect x="288" y="268" width="100" height="32" rx="6" fill="#12201c" stroke="#2dd4a8" stroke-opacity="0.35"/>
-    <text x="338" y="288" text-anchor="middle" fill="#5eead4">Python</text>
+    <rect x="252" y="268" width="128" height="32" rx="6" fill="#12201c" stroke="#2dd4a8" stroke-opacity="0.35"/>
+    <text x="316" y="288" text-anchor="middle" fill="#5eead4">Automation</text>
 
-    <rect x="400" y="268" width="108" height="32" rx="6" fill="#12201c" stroke="#2dd4a8" stroke-opacity="0.35"/>
-    <text x="454" y="288" text-anchor="middle" fill="#5eead4">Privacy</text>
+    <rect x="392" y="268" width="108" height="32" rx="6" fill="#12201c" stroke="#2dd4a8" stroke-opacity="0.35"/>
+    <text x="446" y="288" text-anchor="middle" fill="#5eead4">Privacy</text>
   </g>
 
-  <!-- right terminal motif -->
   <g transform="translate(820, 96)">
     <rect width="300" height="180" rx="12" fill="#0b1412" stroke="#1f3a33" stroke-width="1.5"/>
     <circle cx="22" cy="22" r="5" fill="#ef4444" opacity="0.85"/>
@@ -72,9 +64,9 @@
     <circle cx="62" cy="22" r="5" fill="#22c55e" opacity="0.85"/>
     <line x1="0" y1="40" x2="300" y2="40" stroke="#1f3a33"/>
     <text x="20" y="72" fill="#6b8f86" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">~/code</text>
-    <text x="20" y="100" fill="#2dd4a8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">$ build --ship</text>
-    <text x="20" y="128" fill="#a7c4bc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">shipping android apps</text>
-    <text x="20" y="156" fill="#a7c4bc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">that respect privacy</text>
+    <text x="20" y="100" fill="#2dd4a8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">$ ship --useful</text>
+    <text x="20" y="128" fill="#a7c4bc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">building with python</text>
+    <text x="20" y="156" fill="#a7c4bc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">&amp; applied AI</text>
     <text x="20" y="184" fill="#2dd4a8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">▌</text>
   </g>
 </svg>
