@@ -1,9 +1,9 @@
 <!--
-**anantdark/anantdark** is a special repository — this README appears on the GitHub profile.
+**anantdark/anantdark** is a special repository. This README appears on the GitHub profile.
 -->
 
 <p align="center">
-  <img src="assets/header.svg" alt="anantdark — Automating my life, one program at a time." width="100%"/>
+  <img src="assets/header.svg" alt="anantdark. Automating my life, one program at a time." width="100%"/>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ### About
 
-AI engineer with a strong Python background. I build practical systems — agents, automations, and products that use models where they help and stay out of the way where they don’t.
+AI engineer with a strong Python background. I build practical systems: agents, automations, and products that use models where they help and stay out of the way where they don’t.
 
 Open source when it can be. Privacy by default.
 
@@ -30,7 +30,7 @@ Open source when it can be. Privacy by default.
 - Shipping useful open-source projects on GitHub
 - Open to collaborating on AI-powered tools that respect users
 - Reach me: [anantpatel2000@proton.me](mailto:anantpatel2000@proton.me)
-- Fun fact: privacy costs convenience — still worth it
+- Fun fact: privacy costs convenience, still worth it
 
 </details>
 
@@ -42,7 +42,7 @@ Open source when it can be. Privacy by default.
 
 | Project | What it is |
 | :--- | :--- |
-| [**FitBuddy**](https://github.com/anantdark/FitBuddy) | AI-powered calorie & workout tracker — region-aware diets, photo/text logging, privacy-first design |
+| [**FitBuddy**](https://github.com/anantdark/FitBuddy) | AI-powered calorie & workout tracker with region-aware diets, photo/text logging, and privacy-first design |
 | [**PythonAutomation**](https://github.com/anantdark/PythonAutomation) | Collection of Python scripts that automate everyday chores |
 | [**Gecko**](https://github.com/anantdark/Gecko) | Time-travelling audio recorder with rolling mic memory |
 | [**SplitBill**](https://github.com/anantdark/SplitBill) | Prepaid meter bill splitting for shared flats |
@@ -86,30 +86,6 @@ Open source when it can be. Privacy by default.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anantdark&theme=dark&background=0A0F0E&ring=2DD4A8&fire=5EEAD4&currStreakLabel=2DD4A8&sideLabels=A7C4BC&dates=6B8F86&stroke=1F3A33&border=1F3A33&currStreakNum=ECFDF8&sideNums=ECFDF8" alt="GitHub streak"/>
 </p>
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 01/11/2026 07:47:19 UTC
-<!--END_SECTION:waka-->
 
 <p align="center">
   <img src="assets/divider.svg" alt="" width="420"/>
